@@ -5,14 +5,10 @@
 
 Hi! Thank you for joining GOON Community.
 
-The starting place to build GOON on your own server and join our GOON Community
-
-An open-source platform designed to bridge the digital divide between rural and urban communities in Cameroon by providing offline digital services to community members.
 
 # Community
 
-join our community and fill free to contribute to our open-source solution
-our discord :
+join our community and feel free to contribute to our open-source solution
 
 Join our `Discord Channel` [join](https://discord.gg/vNNsKGZN).
 
